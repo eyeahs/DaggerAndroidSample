@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DaggerAndroidSample</string>
+    <string name="click_here_to_show_second_activity">Click Here to show SECOND ACTIVITY!!</string>
+    <string name="second_activity">Second Activity!!!</string>
+</resources>
